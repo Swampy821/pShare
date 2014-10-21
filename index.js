@@ -1,0 +1,1 @@
+var application = require('./lib/sys.js');
